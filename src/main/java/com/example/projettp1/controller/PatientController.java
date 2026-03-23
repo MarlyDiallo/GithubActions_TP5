@@ -10,7 +10,7 @@ public class PatientController {
     @GetMapping
     public String home() {
     
-        return "MARLYATOU DIALLO votre VM marche correctement ";
+        return "MARLEYATOU DIALLO votre VM marche correctement ";
     }
 
 }
